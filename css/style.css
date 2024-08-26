@@ -1,0 +1,28 @@
+.nav-top {
+    background-color: rgb(64, 66, 65) !important;
+}
+
+.nav-menu {
+    color: white !important;
+    background-color: #0e0e0e !important;
+    margin: 0.3em !important;
+    border-radius: 0.3em !important;
+    font-weight: bold !important;
+}
+
+
+
+nav img {
+    width: 2em;
+}
+.button-br{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border: #000000;
+}
+.button-br-1{
+    background-color:  rgb(64, 66, 65)
+}
+.text-1{
+    color: rgb(0, 0, 0);
+}
