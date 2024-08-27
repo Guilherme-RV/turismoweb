@@ -13,16 +13,47 @@
 
 
 nav img {
-    width: 2em;
+    width: 2em !important;
 }
-.button-br{
-    color: rgb(255, 255, 255);
-    background-color: #000000;
+
+.button-br {
+    color: rgb(255, 255, 255) !important;
+    background-color: #b8b8b8 !important;
     border: #000000;
+    border-radius: 3cm;
 }
-.button-br-1{
-    background-color:  rgb(64, 66, 65)
+
+.button-br-1 {
+    background-color: rgb(64, 66, 65)
 }
-.text-1{
-    color: rgb(0, 0, 0);
+
+.text-1 {
+    color: white !important;
+}
+
+.img-car {
+    max-height: 30em !important;
+}
+
+.carousel-caption {
+    background-color: aqua !important;
+}
+
+.divisão {
+    background-color: rgb(64, 66, 65) !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 5% !important;
+}
+
+.sec-pacotes {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 0.5% !important;
+}
+
+.card {
+    margin-left: 1em !important;
+    padding: 1em !important;
 }
